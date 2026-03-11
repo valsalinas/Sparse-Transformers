@@ -1,82 +1,63 @@
+References
+
 Papers:
-1.	Attention Is All You Need
+[1] Attention Is All You Need
 Link: https://arxiv.org/abs/1706.03762
-2.	On the Learn-to-Optimize Capabilities of Transformers in In-Context Sparse Recovery
+[2] On the Learn-to-Optimize Capabilities of Transformers in In-Context Sparse Recovery
 Link: https://arxiv.org/abs/2410.13981
-3.	Generating Long Sequences with Sparse Transformers
+[3] Generating Long Sequences with Sparse Transformers
 Link: https://arxiv.org/abs/1904.10509
-4.	The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs
+[4] The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs
 Link: https://arxiv.org/abs/2504.17768
-5.	Attention: Periodic Sparse Transformers for Efficient Long-Context Modeling
+[6] Attention: Periodic Sparse Transformers for Efficient Long-Context Modeling
 Link: https://arxiv.org/abs/2511.10696
-6.	Neighborhood Attention Transformer
+[7] Neighborhood Attention Transformer
 Link: https://arxiv.org/abs/2204.07143
-7.	Formal Algorithms For Transformers
+[8] Formal Algorithms For Transformers
 Link: https://arxiv.org/pdf/2207.09238
-8.	The Evolved Transformer
+[9] The Evolved Transformer
 Link: https://arxiv.org/abs/1901.11117
-9.	Adaptive Attention Span in Transformers
+[10] Adaptive Attention Span in Transformers
 Link: https://arxiv.org/abs/1905.07799
-10.	Augmenting Self-attention with Persistent Memory
+[12] Augmenting Self-attention with Persistent Memory
 Link: https://arxiv.org/abs/1907.01470
-11.	Formal Algorithms for Transformers
+[13] Formal Algorithms for Transformers
 Link: https://arxiv.org/pdf/2207.09238
-12.	Memory Transformer
+[14] Memory Transformer
 Link: https://arxiv.org/abs/2006.11527
-13.	Redesigning the Transformer Architecture with Insights from Multi-particle Dynamical Systems
+[15] Redesigning the Transformer Architecture with Insights from Multi-particle Dynamical Systems
 Link: https://proceedings.neurips.cc/paper/2021/file/2bd388f731f26312bfc0fe30da009595-Paper.pdf
-14.	An Introduction to Transformers
+[16] An Introduction to Transformers
 Link: https://arxiv.org/abs/2304.10557
-15.	Simplifying Transformer Blocks
+[17] Simplifying Transformer Blocks
 Link: https://arxiv.org/abs/2311.01906
-16.	Sliding Window Attention Training for Efficient Large Language Models
+[18] Sliding Window Attention Training for Efficient Large Language Models
 Link: https://arxiv.org/abs/2502.18845
-17.	Big Bird: Transformers for Longer Sequences
+[19] Big Bird: Transformers for Longer Sequences
 Link: https://arxiv.org/abs/2007.14062
-18.	HybridNorm: Towards Stable and Efficient Transformer Training via Hybrid Normalization
+[20] HybridNorm: Towards Stable and Efficient Transformer Training via Hybrid Normalization
 Link: https://openreview.net/forum?id=NligLHO7yG
-19.	Transformer and Hybrid Deep Learning Based Models for Machine-Generated Text Detection
+[21] Transformer and Hybrid Deep Learning Based Models for Machine-Generated Text Detection
 Link: https://arxiv.org/abs/2405.17964
-20.	Transformers with Joint Tokens and Local-Global Attention for Efficient Human Pose Estimation 
+[22] Transformers with Joint Tokens and Local-Global Attention for Efficient Human Pose Estimation 
 Link: https://arxiv.org/abs/2503.00232
-21.	Enhancing Transformers Through Conditioned Embedded Tokens
+[23] Enhancing Transformers Through Conditioned Embedded Tokens
 Link: https://arxiv.org/abs/2505.12789
-22.	Memory Tokens: Large Language Models Can Generate Reversible Sentence Embeddings
+[24] Memory Tokens: Large Language Models Can Generate Reversible Sentence Embeddings
 Link: https://arxiv.org/pdf/2506.15001v1
-23.	Geotokens and Geotransformers
+[25] Geotokens and Geotransformers
 Link: https://arxiv.org/abs/2403.15940
-24.	How Transformers learn structured data: insights from hierarchical filtering
+[26] How Transformers learn structured data: insights from hierarchical filtering
 Link: https://arxiv.org/abs/2408.15138
-25.	Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models
+[27] Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models
 Link: https://arxiv.org/abs/2411.04996
-26.	ETC: Encoding Long and Structured Inputs in Transformers
+[28] ETC: Encoding Long and Structured Inputs in Transformers
 Link: https://arxiv.org/abs/2004.08483
-27.	SWAT: Scalable and Efficient Window Attention-based Transformers Acceleration on FPGAs
+[29] SWAT: Scalable and Efficient Window Attention-based Transformers Acceleration on FPGAs
 Link: https://dl.acm.org/doi/10.1145/3649329.3658488
-28.	Neural Machine Translation By Jointly Learning to Align and Translate
+[30] Neural Machine Translation By Jointly Learning to Align and Translate
 Link: https://arxiv.org/pdf/1409.0473
-29.	Parameter-Efficient Transfer Learning for NLP
+[31] Parameter-Efficient Transfer Learning for NLP
 Link: https://arxiv.org/pdf/1902.00751
-30.	The Power of Scale for Parameter-Efficient Prompt Tuning
+[32] The Power of Scale for Parameter-Efficient Prompt Tuning
 Link: https://arxiv.org/pdf/2104.08691
-
-Blog:
-1.	The Illustracted Transformer
-Link: https://jalammar.github.io/illustrated-transformer/
-2.	Transformers From Scratch
-Link: https://peterbloem.nl/blog/transformers
-
-Books: 
-1.	Natural Language Processing with Transformers: building language applications with hugging face. Authors: Lewis Tunstall, Leandro von Werra and Thomas Wolf (2022).
-
-2.	Hands-On Generative AI with Transformers and Diffusion Models. Authors: Sanseviero, O., Cuenca, P., Passos, A., & Whitaker, J. (2024).
-Surveys:
-1.	Efficient Transformers: A Survey
-Link: https://dl.acm.org/doi/10.1145/3530811
-2.	Multimodal Learning With Transformers: A Survey
-Link: https://arxiv.org/abs/2206.06488
-3.	A Comprehensive Survey on Transformer-Based Machine Translation: Identifying Research Gaps and Solutions for Large Language Models
-Link: https://dl.acm.org/doi/10.1145/3773076
-
-
-
