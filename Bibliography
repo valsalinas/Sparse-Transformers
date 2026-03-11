@@ -1,63 +1,33 @@
-References
-
+REFERENCES
 Papers:
-[1] Attention Is All You Need
-Link: https://arxiv.org/abs/1706.03762
-[2] On the Learn-to-Optimize Capabilities of Transformers in In-Context Sparse Recovery
-Link: https://arxiv.org/abs/2410.13981
-[3] Generating Long Sequences with Sparse Transformers
-Link: https://arxiv.org/abs/1904.10509
-[4] The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs
-Link: https://arxiv.org/abs/2504.17768
-[6] Attention: Periodic Sparse Transformers for Efficient Long-Context Modeling
-Link: https://arxiv.org/abs/2511.10696
-[7] Neighborhood Attention Transformer
-Link: https://arxiv.org/abs/2204.07143
-[8] Formal Algorithms For Transformers
-Link: https://arxiv.org/pdf/2207.09238
-[9] The Evolved Transformer
-Link: https://arxiv.org/abs/1901.11117
-[10] Adaptive Attention Span in Transformers
-Link: https://arxiv.org/abs/1905.07799
-[12] Augmenting Self-attention with Persistent Memory
-Link: https://arxiv.org/abs/1907.01470
-[13] Formal Algorithms for Transformers
-Link: https://arxiv.org/pdf/2207.09238
-[14] Memory Transformer
-Link: https://arxiv.org/abs/2006.11527
-[15] Redesigning the Transformer Architecture with Insights from Multi-particle Dynamical Systems
-Link: https://proceedings.neurips.cc/paper/2021/file/2bd388f731f26312bfc0fe30da009595-Paper.pdf
-[16] An Introduction to Transformers
-Link: https://arxiv.org/abs/2304.10557
-[17] Simplifying Transformer Blocks
-Link: https://arxiv.org/abs/2311.01906
-[18] Sliding Window Attention Training for Efficient Large Language Models
-Link: https://arxiv.org/abs/2502.18845
-[19] Big Bird: Transformers for Longer Sequences
-Link: https://arxiv.org/abs/2007.14062
-[20] HybridNorm: Towards Stable and Efficient Transformer Training via Hybrid Normalization
-Link: https://openreview.net/forum?id=NligLHO7yG
-[21] Transformer and Hybrid Deep Learning Based Models for Machine-Generated Text Detection
-Link: https://arxiv.org/abs/2405.17964
-[22] Transformers with Joint Tokens and Local-Global Attention for Efficient Human Pose Estimation 
-Link: https://arxiv.org/abs/2503.00232
-[23] Enhancing Transformers Through Conditioned Embedded Tokens
-Link: https://arxiv.org/abs/2505.12789
-[24] Memory Tokens: Large Language Models Can Generate Reversible Sentence Embeddings
-Link: https://arxiv.org/pdf/2506.15001v1
-[25] Geotokens and Geotransformers
-Link: https://arxiv.org/abs/2403.15940
-[26] How Transformers learn structured data: insights from hierarchical filtering
-Link: https://arxiv.org/abs/2408.15138
-[27] Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models
-Link: https://arxiv.org/abs/2411.04996
-[28] ETC: Encoding Long and Structured Inputs in Transformers
-Link: https://arxiv.org/abs/2004.08483
-[29] SWAT: Scalable and Efficient Window Attention-based Transformers Acceleration on FPGAs
-Link: https://dl.acm.org/doi/10.1145/3649329.3658488
-[30] Neural Machine Translation By Jointly Learning to Align and Translate
-Link: https://arxiv.org/pdf/1409.0473
-[31] Parameter-Efficient Transfer Learning for NLP
-Link: https://arxiv.org/pdf/1902.00751
-[32] The Power of Scale for Parameter-Efficient Prompt Tuning
-Link: https://arxiv.org/pdf/2104.08691
+[1] Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł, & Polosukhin, I., 2017. Attention Is All You Need. https://arxiv.org/abs/1706.03762
+[2] Renpu Liu, Ruida Zhou, Cong Shen, and Jing Yang. 2025. On the Learn-to-Optimize Capabilities of Transformers in In-Context Sparse Recovery. arXiv:2410.13981. https://arxiv.org/abs/2410.13981
+[3] Rewon Child, Scott Gray, Alec Radford, and Ilya Sutskever. 2019. Generating Long Sequences with Sparse Transformers. arXiv:1904.10509. https://arxiv.org/abs/1904.10509 
+[4] Piotr Nawrot, Robert Li, Renjie Huang, Sebastian Ruder, Kelly Marchisio, and Edoardo M. Ponti. 2026. The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs. arXiv:2504.17768. https://arxiv.org/abs/2504.17768 
+[6] Dong Liu and Yanxuan Yu. 2025. π-Attention: Periodic Sparse Transformers for Efficient Long-Context Modeling. arXiv:2511.10696. https://arxiv.org/abs/2511.10696 
+[7] Ali Hassani, Steven Walton, Jiachen Li, Shen Li, and Humphrey Shi. 2023. Neighborhood Attention Transformer. arXiv:2204.07143. https://arxiv.org/abs/2204.07143 
+[8] Mary Phuong and Marcus Hutter. 2022. Formal Algorithms for Transformers. arXiv:2207.09238. https://arxiv.org/abs/2207.09238
+[9] David R. So, Chen Liang, and Quoc V. Le. 2019. The Evolved Transformer. arXiv:1901.11117. https://arxiv.org/abs/1901.11117
+[10] Sainbayar Sukhbaatar, Edouard Grave, Piotr Bojanowski, and Armand Joulin.
+2019. Adaptive Attention Span in Transformers. arXiv:1905.07799. https://arxiv.org/abs/1905.07799
+[11] Sainbayar Sukhbaatar, Edouard Grave, Guillaume Lample, Herve Jegou, and Armand Joulin. 2019. Augmenting Self-attention with Persistent Memory. arXiv:1907.01470. https://arxiv.org/abs/1907.01470
+[12] Mary Phuong and Marcus Hutter. 2022. Formal Algorithms for Transformers. arXiv:2207.09238 [cs.LG]. https://arxiv.org/abs/2207.09238 
+[13] Mikhail S. Burtsev, Yuri Kuratov, Anton Peganov, and Grigory V. Sapunov. 2021. Memory Transformer. arXiv:2006.11527. https://arxiv.org/abs/2006.11527 
+[14] Subhabrata Dutta, Tanya Gautam, Soumen Chakrabarti, and Tanmoy Chakraborty. 2021. Redesigning the Transformer Architecture with Insights from Multi-particle Dynamical Systems. arXiv:2109.15142. https://arxiv.org/abs/2109.15142 
+[15] Richard E. Turner. 2026. An Introduction to Transformers. arXiv:2304.10557. https://arxiv.org/abs/2304.10557 
+[16] Bobby He and Thomas Hofmann. 2024. Simplifying Transformer Blocks. arXiv:2311.01906. https://arxiv.org/abs/2311.01906 
+[17] Zichuan Fu, Wentao Song, Yejing Wang, Xian Wu, Yefeng Zheng, Yingying Zhang, Derong Xu, Xuetao Wei, Tong Xu, and Xiangyu Zhao. 2025. Sliding Window Attention Training for Efficient Large Language Models. arXiv:2502.18845. https://arxiv.org/abs/2502.18845 
+[18] Manzil Zaheer, Guru Guruganesh, Avinava Dubey, Joshua Ainslie, Chris Alberti, Santiago Ontanon, Philip Pham, Anirudh Ravula, Qifan Wang, Li Yang, and Amr Ahmed. 2021. Big Bird: Transformers for Longer Sequences. arXiv:2007.14062. https://arxiv.org/abs/2007.14062 
+[19] Zhijian Zhuo, Yutao Zeng, Ya Wang, Sijun Zhang, Xiaoqing Li, Jian Yang, Zhou Xun, and Jinwen Ma. 2025. HybridNorm: Towards Stable and Efficient Transformer Training via Hybrid Normalization. In The Thirty-ninth Annual Conference on Neural Information Processing Systems.  https://openreview.net/forum?id=NligLHO7yG 
+[20] Teodor-George Marchitan, Claudiu Creanga, and Liviu P. Dinu. 2024. Transformer and Hybrid Deep Learning Based Models for Machine-Generated Text Detection. arXiv:2405.17964. https://arxiv.org/abs/2405.17964 
+[21] Kaleab A. Kinfu and René Vidal. 2025. Transformers with Joint Tokens and Local-Global Attention for Efficient Human Pose Estimation. arXiv:2503.00232. https://arxiv.org/abs/2503.00232 
+[22] Hemanth Saratchandran and Simon Lucey. 2025. Enhancing Transformers Through Conditioned Embedded Tokens. arXiv:2505.12789 https://arxiv.org/abs/2505.12789 
+[23] Ignacio Sastre and Aiala Rosá. 2025. Memory Tokens: Large Language Models Can Generate Reversible Sentence Embeddings. In Proceedings of the First Workshop on Large Language Model Memorization (L2M2). Association for Computational Linguistics, 2025. https://arxiv.org/pdf/2506.15001v1
+[24] Eren Unlu. 2024. Geotokens and Geotransformers. arXiv:2403.15940. https://arxiv.org/abs/2403.15940 
+[25] Jerome Garnier-Brun, Marc Mézard, Emanuele Moscato, and Luca Saglietti. 2025. How Transformers Learn Structured Data: Insights from Hierarchical Filtering. arXiv:2408.15138. https://arxiv.org/abs/2408.15138 
+[26] Weixin Liang, Lili Yu, Liang Luo, Srinivasan Iyer, Ning Dong, Chunting Zhou, Gargi Ghosh, Mike Lewis, Wen-tau Yih, Luke Zettlemoyer, and Xi Victoria Lin. 2025. Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models. arXiv:2411.04996. https://arxiv.org/abs/2411.04996 
+[27] Joshua Ainslie, Santiago Ontanon, Chris Alberti, Vaclav Cvicek, Zachary Fisher, Philip Pham, Anirudh Ravula, Sumit Sanghai, Qifan Wang, and Li Yang. 2020. ETC: Encoding Long and Structured Inputs in Transformers. arXiv:2004.08483. https://arxiv.org/abs/2004.08483 
+[28] Zhenyu Bai, Pranav Dangi, Huize Li, and Tulika Mitra. 2024. SWAT: Scalable and Efficient Window Attention-based Transformers Acceleration on FPGAs. arXiv:2405.17025. https://arxiv.org/abs/2405.17025 
+[29] Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. 2016. Neural Machine Translation by Jointly Learning to Align and Translate. arXiv:1409.0473. https://arxiv.org/abs/1409.0473 
+[30] Neil Houlsby, Andrei Giurgiu, Stanislaw Jastrzebski, Bruna Morrone, Quentin de Laroussilhe, Andrea Gesmundo, Mona Attariyan, and Sylvain Gelly. 2019. Parameter-Efficient Transfer Learning for NLP. arXiv:1902.00751. https://arxiv.org/abs/1902.00751 
+[31] Brian Lester, Rami Al-Rfou, and Noah Constant. 2021. The Power of Scale for Parameter-Efficient Prompt Tuning. arXiv:2104.08691. https://arxiv.org/abs/2104.08691
